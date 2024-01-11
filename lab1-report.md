@@ -1,4 +1,4 @@
-f# Lab Report 1
+# Lab Report 1
 
 ## `cd` command
 **1) No Arguments**
