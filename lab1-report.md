@@ -3,11 +3,11 @@
 ## `cd` command
 **1) No Arguments**
 
-![image](https://github.com/sli051357/cse15l-lab-reports/assets/100035287/2d3c6501-5fca-4a9d-af7f-ba1948f48747)
+![image](https://github.com/sli051357/cse15l-lab-reports/assets/100035287/2e132d6a-ab3b-4b9d-b1bb-0fba36446ea4)
 
-The working directory was the home directory and stayed the home directory.
+The working directory was the messages directory and turned into the home directory.
 
-There was no output because the ``cd`` command takes an argument to change the working directory to the given directory; since there was no argument, the working directory did not change.
+There was no output because the ``cd`` command takes an argument to change the working directory to the given directory; since there was no argument, the working directory changed to the outermost directory, or the home directory.
 
 The output is *not* an error.
 
@@ -30,6 +30,8 @@ The working directory was the lecture1 directory and stayed the lecture1 directo
 The output was an error message because we attempted to change directories to the README file, which then caused an error.
 
 The output *is* an error because we attempted to change directories into a file, which is not possible because the README file is not a directory and you can't change directories to a file.
+
+---
 
 ## `ls` command
 **1) No Arguments**
@@ -61,6 +63,8 @@ The working directory was the lecture1 directory.
 The output was just the README file (but just the name) because it was a list of the README file (since the output could be considered a list of a singular file).
 
 The output is *not* an error.
+
+---
 
 ## `cat` command
 **1) No Argument**
