@@ -4,7 +4,7 @@
 
 ![image](https://github.com/sli051357/cse15l-lab-reports/assets/100035287/86a66e69-e791-4c43-8480-d5a6ea3cb406)
 
-I used the command `ssh sal075@ieng6.ucsd.edu <enter>` to log in to my ieng6 account. The `ssh` command establishes a remote connection to a remote computer instead of my own, `sal075@ieng6.ucsd.edu` is the account name (or my email address), and the `<enter>` command runs the command.
+I used the command `ssh sal075@ieng6.ucsd.edu <enter>` to log in to my ieng6 account. The `ssh` command establishes a remote connection to a remote computer instead of running commands on my own computer, `sal075@ieng6.ucsd.edu` is the account name (or my email address), and the `<enter>` command runs the command.
 
 ## Step 5
 
