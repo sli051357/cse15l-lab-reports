@@ -6,4 +6,4 @@
 
 [Lab 3](https://sli051357.github.io/cse15l-lab-reports/lab3-report.html)
 
-[Lab 4](https://sli053157.github.io/cse15l-lab-reports/lab4-report.html)
+[Lab 4](https://sli051357.github.io/cse15l-lab-reports/lab4-report.html)
